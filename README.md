@@ -53,7 +53,7 @@ section {
   <section>
     <h2>My hobby</h2>
     <ul>
-      <li>1.watchin animes and manga</li>
+      <li>1.watch anime and manga</li>
       <li>2.Play Volley Ball (although I am not that good, but I still love it❤️. )</li>
       <li>3.finance</li>
       <li>4.most kind of technologies</li>
