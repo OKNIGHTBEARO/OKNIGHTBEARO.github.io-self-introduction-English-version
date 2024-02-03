@@ -46,7 +46,8 @@ section {
   <section>
     <h2>About me</h2>
     <p> I am a junior highschool student(2024/2/3)Because I was really not sure what I wanted to do in the future, so I simply built a website to see if I was interested😙</p>
-    <p> 目前學歷:Taiwan Kaohsiung Dongguang Elementary School >>> Taiwan Kaohsiung Municipal Yangming Junior High School >>> Kaohsiung Municipal Jhong Jheng High School >>> ??? </p>
+    <p> Current academic qualifications:Taiwan Kaohsiung Dongguang Elementary School >>> Taiwan Kaohsiung Municipal Yangming Junior High School 
+      >>> Kaohsiung Municipal Jhong Jheng High School >>> ??? </p>
   </section>
 
   <section>
