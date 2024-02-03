@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>自我介紹</title>
+  <title>About me (OKNIGHTBEARO)</title>
   <style>
     body {
   background: linear-gradient(to bottom, #B0E0E6, #F0F8FF);
@@ -40,38 +40,40 @@ section {
 </head>
 <body>
   <header>
-    <h1>歡迎來到我的自我介紹分枝</h1>
+    <h1>Welcom to my self-introduction branch</h1>
   </header>
 
   <section>
-    <h2>關於我</h2>
-    <p> 我是一名高中生(2024/2/1)因為實在不確定未來要做什麼，所以索性試著架架看網站來看看自己有沒有興趣。</p>
-    <p> 目前學歷:高雄市立東光國小>>>高雄市立陽明國中>>>高雄市立中正高中>>>??? </p>
+    <h2>About me</h2>
+    <p> I am a junior highschool student(2024/2/3)Because I was really not sure what I wanted to do in the future, so I simply built a website to see if I was interested😙</p>
+    <p> 目前學歷:Taiwan Kaohsiung Dongguang Elementary School >>> Taiwan Kaohsiung Municipal Yangming Junior High School >>> Kaohsiung Municipal Jhong Jheng High School >>> ??? </p>
   </section>
 
   <section>
-    <h2>我的興趣</h2>
+    <h2>My hobby</h2>
     <ul>
-      <li>1.看漫畫&動漫</li>
-      <li>2.打排球(菜)</li>
-      <li>3.經濟</li>
-      <li>4.各類科技</li>
-      <li>5.車子</li>
+      <li>1.watchin animes and manga</li>
+      <li>2.Play Volley Ball (although I am not that good, but I still love it❤️. )</li>
+      <li>3.finance</li>
+      <li>4.most kind of technologies</li>
+      <li>5.Formula 1</li>
     </ul>
   </section>
 
   <section>
-    <h2>作品集</h2>
-    <p>如果你有任何可以展示的作品，例如程式代碼、設計作品等等，可以在這裡提供連結或展示。</p>
+    <h2>Samples & works</h2>
+    <p>Sample1</p>
+    <p>Sample2</p>
+    <p>Sample3</p>
   </section>
 
   <section>
-    <h2>聯絡我Der方法</h2>
-    <li><a href="">E-mail:_________</a></li>
+    <h2>Contact with me</h2>
+    <li><a href="liuegeg1919@gmail.com">E-mail:liuegeg1919@gmail.com</a></li>
   </section>
 
   <footer>
-    <p>版權聲明：在這裡可以添加版權聲明或其他相關資訊。</p>
+    <p>All these pages are made by OKNIGHTBEARO & Poe and powered by github.com & Poe</p>
   </footer>
 </body>
 </html>
